@@ -1,3 +1,9 @@
+## 任务一：论文导读
+- **论文来源**：Hybrid CNN-Mamba Model for Multi-Scale Retinal Image Enhancement，IEEE TMI 2024
+- **导读生成**：使用 Kimi 生成正文，手动润色调整
+- **配图方式**：从论文原文下载模型架构图、实验结果图，手动插入并添加图注
+
+## 任务二：DeepSeek Chatbot
 \# hw02：DeepSeek Chatbot 实现
 
 
